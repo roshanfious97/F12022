@@ -1,0 +1,38 @@
+.logo{
+    width: 200px;
+    margin-left: 20em;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    background: rgb(223,1,1);
+    background: linear-gradient(90deg, rgba(223,1,1,1) 0%, rgba(227,36,36,1) 14%);
+}
+h1{
+    margin-left: 5em;
+    font-size: 50px;
+    color: white;
+}
+ul{
+    margin: 50px;
+}
+li{
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 24px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: rgb(0, 0, 0);
+}
+a:visited{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    color: rgb(99, 1, 1);
+}
